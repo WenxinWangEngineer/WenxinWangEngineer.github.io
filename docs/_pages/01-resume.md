@@ -8,5 +8,5 @@ redirect_from:
 toc: true
 ---
 
-<iframe src="assets/files/resumes/Senior Data Engineer_Tiffany Wang_Resume.pdf" width="100%" height="600px">
+<iframe src="../_resumes/Senior Data Engineer_Tiffany Wang_Resume.pdf" width="100%" height="600px">
 </iframe>
