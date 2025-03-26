@@ -240,6 +240,14 @@
         </li>
       {% endif %}
 
+      {% if author.xiaohongshu %}
+        <li>
+          <a href="https://www.xiaohongshu.com/{{ author.xiaohongshu }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-xiaohongshu" aria-hidden="true"></i><span class="label">Xiaohongshu</span>
+          </a>
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
