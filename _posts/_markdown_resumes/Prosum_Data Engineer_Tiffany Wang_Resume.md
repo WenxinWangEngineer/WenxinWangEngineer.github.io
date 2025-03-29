@@ -48,4 +48,8 @@ Senior Data Engineer with 8+ years of expertise in **real-time data pipelines**,
 Embry-Riddle Aeronautical University | 2015–2017  
 
 **B.S. in Computer Science**  
-Nanjing University of Aeronautics and Astronautics | 201
+Nanjing University of Aeronautics and Astronautics | 2012–2016  
+
+---
+
+† Matches JD Core Requirements  
