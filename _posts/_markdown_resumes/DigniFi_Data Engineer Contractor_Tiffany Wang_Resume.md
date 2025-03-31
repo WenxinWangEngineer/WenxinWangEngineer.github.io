@@ -1,6 +1,6 @@
 # Tiffany Wang
 
-**Objective: Data Engineer (Contractor) - DigniFi Alignment**  
+**Objective: Data Engineer (Contractor) - DigniFi**  
 **JD Focus Areas:** SQL† | Snowflake† | Financial Data Modeling | AWS†  
 
 Phone: (626)-223-6123 | Location: 551 Avenue A, Redondo Beach, CA 90277  
