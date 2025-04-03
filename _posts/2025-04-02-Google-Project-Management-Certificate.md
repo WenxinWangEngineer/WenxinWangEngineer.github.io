@@ -6,7 +6,7 @@ Systematically learning how the world leading corporate manages the projects. No
 # Course Info
 * Date: 2025-04-02
 * Certificates to: Tiffany Wang
-* Time use: 9:00pm - 
+* Time use: 9:00pm - 11:20pm
 * [Coursera](https://www.coursera.org/learn/project-management-foundations/supplement/qaLq3/helpful-resources-to-get-started)
 
 ## Outlines
