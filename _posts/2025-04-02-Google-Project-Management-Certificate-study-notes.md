@@ -21,5 +21,8 @@ time use: 9;00pm -
 2. [The Scrum Guide](https://scrumguides.org/index.html)
  defines Scrum, a technique used in Agile project management. You’ll learn about this framework later in the program. This guide describes Scrum’s roles, events, artifacts, and the rules that bind them together. You can also find hundreds of free resources to learn more about Scrum at [Scrum.org Resources](https://www.scrum.org/resources)
  
- 
+
+## Glossary
+To remind yourself about what a term means, refer to this [Glossary](https://docs.google.com/document/d/1jtDR7d9daVgqnhBZnm17SBthdKVQ2hyPfGdl2f-v3Uk/edit?tab=t.0).
+
 ## Summary
