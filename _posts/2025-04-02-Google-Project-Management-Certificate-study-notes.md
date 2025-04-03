@@ -24,5 +24,6 @@
 
 ## Glossary
 To remind yourself about what a term means, refer to this [Glossary](https://docs.google.com/document/d/1jtDR7d9daVgqnhBZnm17SBthdKVQ2hyPfGdl2f-v3Uk/edit?tab=t.0).
+* __DMAC__: the Lean Six Signa approach
 
 ## Summary
