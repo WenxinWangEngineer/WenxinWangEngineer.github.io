@@ -1,6 +1,8 @@
 ## Objectives
 A study note for 'Google Project Management Certificate'.
 
+Art of being on time and buget to achieve the goal.
+
 Systematically learning how the world leading corporate manages the projects. Not only for my professional career development knowledge enhancement, but also could be useful for personal life such as family decisions makding, travel trips scheduling, and big life event management.
 
 # Course Info
