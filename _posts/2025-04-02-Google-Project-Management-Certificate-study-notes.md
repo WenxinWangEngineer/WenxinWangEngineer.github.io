@@ -36,6 +36,14 @@ To remind yourself about what a term means, refer to this [Glossary](https://doc
 * __Planning__: Making use of productivity tools and creating processes, creating and maintaining plans, timelines, schedules, and other forms of documentation to track project completion.
 * __Project governance__: the framework for how project decisions are made.
 * __Project lifecycle__: 4 phases of the basic structure for a project: initiate the project, make the plan, execute and complete tasks, and close the project.
-* 
+* __Reporting chart__: A diagram showing the relationship among ppl and groups within the org. and who each person or group reports to.
+* __Resource availiability__: knowing how to access the ppl, equipment, and budget $$ needed for a project.
+* __Retrospective__: A workshop or meeting with the project team to note best practices and learn how to manage a project more efficiently the next time.
+* __Risk__: A potential event which can occur and have an impact on a project.
+* __Stakeholders__: Ppl who are interested in and affected by the project's completion and success.
+* __steering committees__: A group that decides on the priorities of an organization and manages the general course of its operations.
+* __Transferable skill__: An ability that can be used in many different jobs and career paths.
+* __Urgency__: Getting team members to understand that the project is important and to identify what actions need to be taken to move the project along.
+
 
 ## Summary
