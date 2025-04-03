@@ -10,7 +10,8 @@ Systematically learning how the world leading corporate manages the projects. No
 * [Coursera](https://www.coursera.org/learn/project-management-foundations/supplement/qaLq3/helpful-resources-to-get-started)
 
 ## Outlines
-
+1. basics
+2. careers
 
 ## Notes taken
 
