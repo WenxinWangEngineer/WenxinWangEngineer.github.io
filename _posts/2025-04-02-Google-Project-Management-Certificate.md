@@ -31,7 +31,7 @@ Systematically learning how the world leading corporate manages the projects. No
     c. _Program Manager -> Portfolio Manager_: A portfolio is a collection of projects and programs across an entire organization. Portfolio managers are responsible for portfolios of projects or programs for one client. Over the course of your career, you might progress from project manager to program manager to portfolio manager roles.
 
     d. _Program managers_: Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
-    
+
     e. _Portfolio managers_: Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary. 
 
     f. _Chief Operating Officer, COO_: Responsible for overseeing the day-to-day administrative and operational functions of a business.
@@ -39,6 +39,69 @@ Systematically learning how the world leading corporate manages the projects. No
     g. _Scrum Master_: Coordinates and guides the Scrum team. Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. May also be listed as a Technical Program Manager or Technical Project Manager.
     h. _Product Owner_: Drives the direction of product development and progress. 
 
+3. **Buzzwords**:
+    a. _Coordination_, or getting people and teams to work together. You may see responsibilities in job descriptions such as “coordination of efforts to achieve project deliverable” or “coordinate internal resources to ensure successful project completion.” Being a project manager is essentially managing the coordination of resources to achieve your end goal. Coordination is one of the top skills a project manager should have, so searching for this term can lead you to appropriate positions. 
+
+    b. _Organization_, or the ability to stay focused on different tasks. You may come across phrases like “solid organizational skills, including attention to detail and multitasking skills” or something as simple as “highly organized.” Organization is key to being a great project manager. We will discuss many ways to sharpen this skill in the upcoming lessons.
+
+    c. _Leadership_, or being able to lead a group of people. You may see phrases like “strong leadership qualities” or “ability to lead” in job descriptions. A project manager needs to display leadership in a number of ways, including effective planning, efficient task coordination, inspiring team members, and key decision-making. You are working on many of the skills needed to become a great leader in this program!
+
+    __Project Manager__:
+    * excellent **time management, prioritization,** and **organizational skills**.
+    * demonstrated **ability to lead** others.
+    * outstanding **communication skills**.
+    * successful track record in **coordinating** the work of internal and external teams to develop new products.
+
+    __Operations Associate__:
+    * **plan** and **organize** team objectives and priorities.
+    * **develop** and **execute** reporting and process design.
+    * **monitor daily operations** and **enhance processes** to maximize efficiency.
+    * **coordinate** training plans.
+
+    <details>
+    <summary>common project management buzzwords</summary>
+	<li>Analytical</li>  
+	<li>Assertive</li>  
+	<li>Assessing outcomes</li>  
+	<li>Assessing progress</li>  
+	<li>Attention to detail</li>  
+	<li>Conflict resolution</li>  
+	<li>Collaborative</li>  
+	<li>Coordination</li>  
+	<li>Communication</li>  
+	<li>Development</li>  
+	<li>Evaluation</li>  
+	<li>Executing plans</li>  
+	<li>Financial analysis</li>  
+	<li>Impact assessment</li>  
+	<li>Leadership engagement</li>  
+	<li>Managing meetings</li>  
+	<li>Managing client expectations</li>  
+	<li>Managing conflicts</li>  
+	<li>Managing relationships with stakeholders</li>  
+	<li>Managing vendors</li>  
+	<li>Meeting deadlines</li>  
+	<li>Monitoring</li>  
+	<li>Multitasking</li>  
+	<li>Planning</li>  
+	<li>Prioritizing</li>  
+	<li>Problem-solving</li>  
+	<li>Process development</li>  
+	<li>Process improvement</li>  
+	<li>Project coordination</li>  
+	<li>Project implementation</li>  
+	<li>Project initialization</li>  
+	<li>Project planning</li>  
+	<li>Project reporting</li>  
+	<li>Quality control</li>  
+	<li>Risk assessment</li>  
+	<li>Risk management</li>  
+	<li>Solution development</li>  
+	<li>Strategic planning</li>  
+	<li>Strong interpersonal skills</li>  
+	<li>Strong verbal communication</li>  
+	<li>Strong written communication</li>  
+    </details>
 
 
 ## Resources
