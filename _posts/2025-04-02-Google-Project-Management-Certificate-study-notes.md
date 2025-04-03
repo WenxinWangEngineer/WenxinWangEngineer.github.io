@@ -1,8 +1,8 @@
-# Info of the course study
-* date: 2025-04-02
-* certificates to: Tiffany Wang
-* time use: 9;00pm - 
-* [course link](https://www.coursera.org/learn/project-management-foundations/supplement/qaLq3/helpful-resources-to-get-started)
+# Course Info
+* Date: 2025-04-02
+* Certificates to: Tiffany Wang
+* Time use: 9:00pm - 
+* [Coursera](https://www.coursera.org/learn/project-management-foundations/supplement/qaLq3/helpful-resources-to-get-started)
 
 ## Outlines
 
