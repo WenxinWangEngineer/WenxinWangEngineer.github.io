@@ -53,19 +53,6 @@ Module 1:
 
     c. _Leadership_, or being able to lead a group of people. You may see phrases like “strong leadership qualities” or “ability to lead” in job descriptions. A project manager needs to display leadership in a number of ways, including effective planning, efficient task coordination, inspiring team members, and key decision-making. You are working on many of the skills needed to become a great leader in this program!
 
-    __Project Manager__:
-    * excellent **time management, prioritization,** and **organizational skills**.
-    * demonstrated **ability to lead** others.
-    * outstanding **communication skills**.
-    * successful track record in **coordinating** the work of internal and external teams to develop new products.
-
-    __Operations Associate__:
-    * **plan** and **organize** team objectives and priorities.
-    * **develop** and **execute** reporting and process design.
-    * **monitor daily operations** and **enhance processes** to maximize efficiency.
-    * **coordinate** training plans.
-
-
     <details>
     <summary>common project management buzzwords</summary>
 	<li>Analytical</li>  
@@ -110,6 +97,19 @@ Module 1:
 	<li>Strong verbal communication</li>  
 	<li>Strong written communication</li>  
     </details>
+
+    __Project Manager__:
+    * excellent **time management, prioritization,** and **organizational skills**.
+    * demonstrated **ability to lead** others.
+    * outstanding **communication skills**.
+    * successful track record in **coordinating** the work of internal and external teams to develop new products.
+
+    __Operations Associate__:
+    * **plan** and **organize** team objectives and priorities.
+    * **develop** and **execute** reporting and process design.
+    * **monitor daily operations** and **enhance processes** to maximize efficiency.
+    * **coordinate** training plans.
+
 
 
 ## Resources
