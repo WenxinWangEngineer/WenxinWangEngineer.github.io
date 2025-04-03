@@ -19,6 +19,7 @@ Module 1:
 ## Notes taken
 
 1. **What does a project manager do (how their typical one day look like)?**: 
+    
     a. _planning and organizing_: e.g. requirements
 
     b. _managing tasks_: milestones + communication between function team & stakeholders
@@ -28,6 +29,7 @@ Module 1:
     d. _controlling costs and other factors_: use tools and skills daily.
 
 2. **Project Management Roles**:
+    
     a. _Project Manager_: Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
 
     b. _Technical Project Manager_: Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
@@ -44,6 +46,7 @@ Module 1:
     h. _Product Owner_: Drives the direction of product development and progress. 
 
 3. **Buzzwords**:
+    
     a. _Coordination_, or getting people and teams to work together. You may see responsibilities in job descriptions such as “coordination of efforts to achieve project deliverable” or “coordinate internal resources to ensure successful project completion.” Being a project manager is essentially managing the coordination of resources to achieve your end goal. Coordination is one of the top skills a project manager should have, so searching for this term can lead you to appropriate positions. 
 
     b. _Organization_, or the ability to stay focused on different tasks. You may come across phrases like “solid organizational skills, including attention to detail and multitasking skills” or something as simple as “highly organized.” Organization is key to being a great project manager. We will discuss many ways to sharpen this skill in the upcoming lessons.
@@ -61,6 +64,7 @@ Module 1:
     * **develop** and **execute** reporting and process design.
     * **monitor daily operations** and **enhance processes** to maximize efficiency.
     * **coordinate** training plans.
+
 
     <details>
     <summary>common project management buzzwords</summary>
