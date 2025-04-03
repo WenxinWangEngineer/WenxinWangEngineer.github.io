@@ -1,8 +1,8 @@
-# Google Project Management Certificate Study Notes
-date: 2025-04-02
-certificates to: Tiffany Wang
-time use: 9;00pm - 
-[course link](https://www.coursera.org/learn/project-management-foundations/supplement/qaLq3/helpful-resources-to-get-started)
+# Info of the course study
+* date: 2025-04-02
+* certificates to: Tiffany Wang
+* time use: 9;00pm - 
+* [course link](https://www.coursera.org/learn/project-management-foundations/supplement/qaLq3/helpful-resources-to-get-started)
 
 ## Outlines
 
