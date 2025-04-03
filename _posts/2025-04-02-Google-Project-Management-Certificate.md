@@ -13,6 +13,12 @@ Systematically learning how the world leading corporate manages the projects. No
 
 
 ## Notes taken
+1. **What does a project manager do (how their typical one day look like)?**: 
+    a. _planning and organizing_: e.g. requirements
+    b. _managing tasks_: milestones + communication between function team & stakeholders
+    c. _budgeting_: resources allocation
+    d. _controlling costs and other factors_: use tools and skills daily.
+
 
 
 ## Resources
