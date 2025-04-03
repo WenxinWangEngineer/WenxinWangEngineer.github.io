@@ -28,6 +28,7 @@ Systematically learning how the world leading corporate manages the projects. No
 To remind yourself about what a term means, refer to this [Glossary](https://docs.google.com/document/d/1jtDR7d9daVgqnhBZnm17SBthdKVQ2hyPfGdl2f-v3Uk/edit?tab=t.0).
 * __DMAC__: the Lean Six Signa approach: lean + six sigma, 2 combined methods used for projects that have goals to save money, improve quality, and move through processes quickly.
 * __Change Management__: adpot users to the new system.
+* __Delegation__: Assigning tasks to individual or resources who can **best** complete the work.
 * __feedback mechanism__: a tool to capture input from stakeholders, such as a survey.
 * __flow chart__: help better visualize the progress of development lifecycle。
 * __kanban__: An Agile tool and approach to provide visual feedback about the status of the work in progress.
@@ -46,6 +47,7 @@ To remind yourself about what a term means, refer to this [Glossary](https://doc
 * __steering committees__: A group that decides on the priorities of an organization and manages the general course of its operations.
 * __Transferable skill__: An ability that can be used in many different jobs and career paths.
 * __Urgency__: Getting team members to understand that the project is important and to identify what actions need to be taken to move the project along.
+* ___Values__: Principles that describe how employees are expected to behave.
 
 
 ## Summary
