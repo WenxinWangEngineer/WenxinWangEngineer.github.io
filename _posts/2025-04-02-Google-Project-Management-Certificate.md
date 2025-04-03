@@ -16,15 +16,22 @@ Systematically learning how the world leading corporate manages the projects. No
 
 1. **What does a project manager do (how their typical one day look like)?**: 
     a. _planning and organizing_: e.g. requirements
+
     b. _managing tasks_: milestones + communication between function team & stakeholders
+
     c. _budgeting_: resources allocation
+
     d. _controlling costs and other factors_: use tools and skills daily.
-    
+
 2. **Project Management Roles**:
     a. _Project Manager_: Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
+
     b. _Technical Project Manager_: Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
+
     c. _Program Manager -> Portfolio Manager_: A portfolio is a collection of projects and programs across an entire organization. Portfolio managers are responsible for portfolios of projects or programs for one client. Over the course of your career, you might progress from project manager to program manager to portfolio manager roles.
+
     d. _Program managers_: Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
+    
     e. _Portfolio managers_: Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary. 
 
     f. _Chief Operating Officer, COO_: Responsible for overseeing the day-to-day administrative and operational functions of a business.
