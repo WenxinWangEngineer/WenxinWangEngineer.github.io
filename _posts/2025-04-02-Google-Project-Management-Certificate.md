@@ -59,3 +59,4 @@ To remind yourself about what a term means, refer to this [Glossary](https://doc
 </details>
 
 ## Summary
+Life is a big project as well. Wanna have a happy and meaningful life? You need to thrive at project management: planning, managing tasks, budgeting, control costs and other factors. Be initiative and proactive about the project you wanna complete from 0 to 1, or managing changes needed for the stage and phase of the life you are at right now.
