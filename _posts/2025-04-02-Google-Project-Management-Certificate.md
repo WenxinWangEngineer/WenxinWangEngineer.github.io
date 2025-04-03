@@ -26,34 +26,30 @@ Systematically learning how the world leading corporate manages the projects. No
 
 ## Glossary (alphabetically)
 To remind yourself about what a term means, refer to this [Glossary](https://docs.google.com/document/d/1jtDR7d9daVgqnhBZnm17SBthdKVQ2hyPfGdl2f-v3Uk/edit?tab=t.0).
-<detials>
+<details>
     <summary>Click to review glossary</summary>
-    
-    <ul>
-        <li>* __DMAC__: the Lean Six Signa approach: lean + six sigma, 2 combined methods used for projects that have goals to save money, improve quality, and move through processes quickly.</li>
-        <li>* __Change Management__: adpot users to the new system.</li>
-        <li>* __Delegation__: Assigning tasks to individual or resources who can **best** complete the work.</li>
-        <li>* __feedback mechanism__: a tool to capture input from stakeholders, such as a survey.</li>
-        <li>* __flow chart__: help better visualize the progress of development lifecycle。</li>
-        <li>* __kanban__: An Agile tool and approach to provide visual feedback about the status of the work in progress.</li>
-        <li>* __linear__: Previous task has to be completed before next task to begin.</li>
-        <li>* __Mission__: Clarifies what the **"what", "who", and "why"** of the organization.</li>
-        <li>* __Organizational culture__: personality (values, mission, history, and so on).</li>
-        <li>* __Ownership__: When ppl feel like they are empowered to take responsibilities for the successful completion of their tasks.</li>
-        <li>* __Planning__: Making use of productivity tools and creating processes, creating and maintaining plans, timelines, schedules, and other forms of documentation to track project completion.</li>
-        <li>* __Project governance__: the framework for how project decisions are made.</li>
-        <li>* __Project lifecycle__: 4 phases of the basic structure for a project: initiate the project, make the plan, execute and complete tasks, and close the project.</li>
-        <li>* __Reporting chart__: A diagram showing the relationship among ppl and groups within the org. and who each person or group reports to.</li>
-        <li>* __Resource availiability__: knowing how to access the ppl, equipment, and budget $$ needed for a project.</li>
-        <li>* __Retrospective__: A workshop or meeting with the project team to note best practices and learn how to manage a project more efficiently the next time.</li>
-        <li>* __Risk__: A potential event which can occur and have an impact on a project.</li>
-        <li>* __Stakeholders__: Ppl who are interested in and affected by the project's completion and success.</li>
-        <li>* __steering committees__: A group that decides on the priorities of an organization and manages the general course of its operations.</li>
-        <li>* __Transferable skill__: An ability that can be used in many different jobs and career paths.</li>
-        <li>* __Urgency__: Getting team members to understand that the project is important and to identify what actions need to be taken to move the project along.</li>
-        <li>* __Values__: Principles that describe how employees are expected to behave.</li>
-    </ul>
-    
-</detials>
+    * __DMAC__: the Lean Six Signa approach: lean + six sigma, 2 combined methods used for projects that have goals to save money, improve quality, and move through processes quickly.
+    * __Change Management__: adpot users to the new system.
+    * __Delegation__: Assigning tasks to individual or resources who can **best** complete the work.
+    * __feedback mechanism__: a tool to capture input from stakeholders, such as a survey.
+    * __flow chart__: help better visualize the progress of development lifecycle。
+    * __kanban__: An Agile tool and approach to provide visual feedback about the status of the work in progress.
+    * __linear__: Previous task has to be completed before next task to begin.
+    * __Mission__: Clarifies what the **"what", "who", and "why"** of the organization.
+    * __Organizational culture__: personality (values, mission, history, and so on).
+    * __Ownership__: When ppl feel like they are empowered to take responsibilities for the successful completion of their tasks.
+    * __Planning__: Making use of productivity tools and creating processes, creating and maintaining plans, timelines, schedules, and other forms of documentation to track project completion.
+    * __Project governance__: the framework for how project decisions are made.
+    * __Project lifecycle__: 4 phases of the basic structure for a project: initiate the project, make the plan, execute and complete tasks, and close the project.
+    * __Reporting chart__: A diagram showing the relationship among ppl and groups within the org. and who each person or group reports to.
+    * __Resource availiability__: knowing how to access the ppl, equipment, and budget $$ needed for a project.
+    * __Retrospective__: A workshop or meeting with the project team to note best practices and learn how to manage a project more efficiently the next time.
+    * __Risk__: A potential event which can occur and have an impact on a project.
+    * __Stakeholders__: Ppl who are interested in and affected by the project's completion and success.
+    * __steering committees__: A group that decides on the priorities of an organization and manages the general course of its operations.
+    * __Transferable skill__: An ability that can be used in many different jobs and career paths.
+    * __Urgency__: Getting team members to understand that the project is important and to identify what actions need to be taken to move the project along.
+    * __Values__: Principles that describe how employees are expected to behave.
+</details>
 
 ## Summary
